@@ -4,8 +4,8 @@ import re
 import shutil
 
 params_login = {
-    'username' : "avirajk",
-    'password' : "Aviraj000@dsu"
+    'username' : "username",
+    'password' : "password"
 }
 
 session = requests.Session()
